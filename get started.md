@@ -20,7 +20,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 
 </div>
 
-<div class="gs-section-02" markdown="1">
+<div class="gs-section-03" markdown="1">
 
 ### 3. Customize your website settings
 Edit the `_config.yml` file to change any settings you want. To edit the file, click on it to view the file and then click on the pencil icon to edit it (watch the video tutorial above if you're confused).  The settings in the file are self-explanatory and I added comments inside the file to help you understand what each setting does. Any line that begins with a hashtag (`#`) is a comment, and the other lines are actual settings.
@@ -43,14 +43,14 @@ Note that this was the easy way to *create* your website, but it does come at a 
      font-size: 30px;
 }
 
-.gs-section-02 h3 { 
+.gs-section-02 h2 { 
      color: blue }
 
 .gs-section-02 p {
      font-size: 30px;
 }
 
-.gs-section-03 h3 { 
+.gs-section-03 h4 { 
      color: green }
 
 .gs-section-03 p {
