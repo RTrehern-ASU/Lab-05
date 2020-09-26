@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Getting Started: "get started"
+    - Getting Started: "getstarted.md"
   Table Demo:
 
 # --- Logo --- #
@@ -95,7 +95,7 @@ feed_show_tags: true
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#708090"
-navbar-text-col: "#404040"
+navbar-text-col: "#F0F8FF"
 navbar-border-col: "#F5F5F5"
 page-col: "#FFFFFF"
 text-col: "#404040"
