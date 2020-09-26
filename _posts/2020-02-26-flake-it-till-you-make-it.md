@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: This is where I would add my Blog...If I were a blogger!
-subtitle: Fortunately for everyone, I'm not a blogger
+title: If I was a blogger, this is where I would host it
+subtitle: Fortunately for us though, we don't have to write a blog!
 
 ---
